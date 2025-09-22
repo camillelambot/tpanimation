@@ -18,4 +18,8 @@ body {
   to {
     transform: rotate(360deg);
   }
+}
+.spinner {
+  background-image: url(https://www.pngall.com/wp-content/uploads/14/Loading-PNG-Image-File.png);
+  animation: rotate 1s linear infinite;
 }/*# sourceMappingURL=style.css.map */
